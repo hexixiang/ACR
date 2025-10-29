@@ -1,0 +1,60 @@
+# Core Dependencies
+torch>=2.8.0
+transformers>=4.56.2
+accelerate>=1.10.1
+datasets>=4.1.1
+
+# Reinforcement Learning
+trl>=0.23.0
+deepspeed>=0.17.6
+
+# Efficient Inference
+vllm>=0.10.2
+xformers>=0.0.32
+
+# PEFT / LoRA (optional)
+peft
+
+# Mathematical Verification
+math-verify>=0.8.0
+sympy>=1.14.0
+latex2sympy2_extended>=1.10.2
+
+# Experiment Tracking
+wandb>=0.22.0
+tensorboard>=2.20.0
+
+# Tokenization & Text Processing
+sentencepiece>=0.2.1
+tokenizers>=0.22.1
+tiktoken>=0.11.0
+
+# Data Processing
+numpy>=2.2.0,<3.0.0
+pandas>=2.3.2
+pyarrow>=21.0.0
+
+# Utilities
+tqdm>=4.67.1
+pyyaml>=6.0.2
+requests>=2.32.5
+safetensors>=0.6.2
+
+# CUDA Support (adjust version based on your CUDA installation)
+# nvidia-cublas-cu12>=12.8.4.1
+# nvidia-cuda-nvrtc-cu12>=12.8.93
+# nvidia-cuda-runtime-cu12>=12.8.90
+# nvidia-cudnn-cu12>=9.10.2.21
+# nvidia-nccl-cu12>=2.27.3
+
+# Additional Dependencies
+pillow>=11.3.0
+regex>=2025.9.0
+filelock>=3.19.1
+huggingface-hub>=0.35.0
+protobuf>=6.32.1
+psutil>=6.0.0
+
+# Development Tools (optional)
+ipython>=8.27.0
+jupyter>=1.0.0

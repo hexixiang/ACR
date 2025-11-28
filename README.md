@@ -274,7 +274,7 @@ This project is released under the Apache 2.0 License. See the paper for full de
 
 For questions or issues, please:
 - Open an issue in this repository
-- Contact: [your-email@institution.edu]
+- Contact: xxx
 
 ---
 

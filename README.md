@@ -58,8 +58,7 @@ This work addresses these challenges through curriculum-based training with care
 │   └── eval/
 │       └── math500.jsonl          # Evaluation dataset (500 MATH problems)
 ├── train_grpo.sh                   # Training launcher script
-├── requirements.txt                # Python dependencies
-└── WWW_2026_paper_4458.pdf        # Full paper
+└── requirements.txt                # Python dependencies
 ```
 
 ## Installation
@@ -74,8 +73,8 @@ This work addresses these challenges through curriculum-based training with care
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/ACR-github.git
-cd ACR-github
+git clone https://github.com/hexixiang/ACR.git
+cd ACR
 ```
 
 2. **Install dependencies**:
@@ -340,22 +339,6 @@ AVSPO generalizes beyond Qwen2.5 to other model families:
 
 The adaptive mechanism converges **22% faster** than the best fixed threshold.
 
-*Note: Please refer to the [paper](WWW_2026_paper_4458.pdf) for detailed experimental results.*
-
-
-## Citation
-
-If you find this work useful for your research, please cite our paper:
-
-```bibtex
-@inproceedings{anonymous2026acr,
-  title={Adaptive Curriculum Reinforcement Learning for Mathematical Reasoning},
-  author={Anonymous},
-  booktitle={Proceedings of The Web Conference 2026},
-  year={2026},
-  organization={ACM}
-}
-```
 
 ## Acknowledgments
 

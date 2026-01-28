@@ -360,6 +360,6 @@ For questions or issues, please:
 
 ---
 
-**Note**: This is a research codebase under active development. Some features may be experimental.
+**Note**: This is a research codebase under active development. Some features may be experimental.xxx
 
 <!-- Test modification: Wed Jan 28 09:17:30 CST 2026 -->

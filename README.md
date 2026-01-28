@@ -22,6 +22,10 @@ To address this, we introduce:
 
 ## Overview
 
+<p align="center">
+  <img src="figures/framework.png" width="95%" alt="AVSPO Framework"/>
+</p>
+
 ### The Advantage Collapse Problem
 
 In GRPO, advantages are computed via intra-group normalization:

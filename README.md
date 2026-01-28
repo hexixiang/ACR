@@ -1,11 +1,14 @@
 # Advantage Collapse in GRPO: Diagnosis and Mitigation
 
-[![Paper](https://img.shields.io/badge/Paper-ICML%202026-blue)]()
+[![Status](https://img.shields.io/badge/Status-Under%20Review-orange)]()
+[![Venue](https://img.shields.io/badge/Venue-ICML%202026-blue)]()
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 
-Official implementation for **"Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation"** (ICML 2026).
+> **Note**: This paper is currently under review at ICML 2026.
+
+Official implementation for **"Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation"**.
 
 ## Abstract
 
